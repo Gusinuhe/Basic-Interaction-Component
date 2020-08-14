@@ -1,0 +1,20 @@
+{
+  "name": "com.gusinuhe.creator.basicinteraction",
+  "version": "3.0.0",
+  "displayName": "Creator Basic Interaction Component",
+  "description": "Basic interaction layer between the Innoactive Creator and concrete interaction implementations like VRTK or the XR Unity Framework.",
+  "unity": "2019.4",
+  "dependencies": {
+    "com.gusinuhe.creator.core": "3.0.0"
+  },
+  "author": {
+    "name": "Innoactive",
+    "email": "gustavo.quiroz@innoactive.de",
+    "url": "https://www.innoactive.io/creator"
+  },
+  "keywords": [
+    "Innoactive",
+    "VR",
+    "XR"
+  ]
+}
